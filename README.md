@@ -8,11 +8,11 @@ E-commerce project developed using **Spring Boot** and **React.js**.
 ---
 
 ## 🚀 Features  
-✅ User authentication with JWT and OAuth2 (Google, Facebook, GitHub).  
-✅ Browse products and search using filters.  
-✅ Add products to cart and place orders.  
-✅ Admin panel for managing products and users.  
-✅ Secure payment and email confirmation.  
+ User authentication with JWT and OAuth2 (Google, Facebook, GitHub).  
+ Browse products and search using filters.  
+ Add products to cart and place orders.  
+ Admin panel for managing products and users.  
+ Secure payment and email confirmation.  
 
 ---
 
